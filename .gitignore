@@ -1,0 +1,3 @@
+node_modules/
+*.log
+_orig_test.bin
