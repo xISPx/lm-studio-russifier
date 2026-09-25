@@ -1,1 +1,0 @@
-LM Studio 0.4.25 Russian translation: dictionaries, hardcoded UI, Developer Docs
