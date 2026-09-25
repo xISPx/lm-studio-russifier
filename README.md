@@ -14,7 +14,7 @@
 
 ![Настройки LM Studio после русификации](screenshots/settings-ru.png)
 
-![Вкладка «Разработка» после русификации](screenshots/developer-ru.png)
+![Документация разработчика после русификации](screenshots/developer-ru.png)
 
 Что переведено:
 
